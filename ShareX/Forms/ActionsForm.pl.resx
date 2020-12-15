@@ -135,4 +135,16 @@
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Akcje</value>
   </data>
+  <data name="lblArgs.Text" xml:space="preserve">
+    <value>Argumenty:</value>
+  </data>
+  <data name="cbDeleteInputFile.Text" xml:space="preserve">
+    <value>Usuń plik wejściowy</value>
+  </data>
+  <data name="cbHiddenWindow.Text" xml:space="preserve">
+    <value>Ukryte okno</value>
+  </data>
+  <data name="lblOutputExtension.Text" xml:space="preserve">
+    <value>Rozszerzenie pliku wyjściowego (Puste = użyj samej nazwy pliku)</value>
+  </data>
 </root>
