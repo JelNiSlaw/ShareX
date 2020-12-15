@@ -141,4 +141,7 @@
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Po przesłaniu</value>
   </data>
+  <data name="chFormat.Text" xml:space="preserve">
+    <value>Format</value>
+  </data>
 </root>

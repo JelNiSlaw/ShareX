@@ -138,4 +138,7 @@
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Po przechwyceniu</value>
   </data>
+  <data name="tpBeforeUpload.Text" xml:space="preserve">
+    <value>Ścieżki docelowe</value>
+  </data>
 </root>
