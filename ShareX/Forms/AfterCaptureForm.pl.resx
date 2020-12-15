@@ -117,10 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lblHotkeyDescription.Text" xml:space="preserve">
-    <value>Opis</value>
+  <data name="btnContinue.Text" xml:space="preserve">
+    <value>Kontynuuj</value>
   </data>
-  <data name="btnHotkey.Text" xml:space="preserve">
-    <value>Skrót klawiszowy</value>
+  <data name="btnCancel.Text" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="btnCopy.Text" xml:space="preserve">
+    <value>Kopiuj</value>
+  </data>
+  <data name="tpAfterCapture.Text" xml:space="preserve">
+    <value>Po przechwyceniu</value>
+  </data>
+  <data name="tpAfterUpload.Text" xml:space="preserve">
+    <value>Po przesłaniu</value>
+  </data>
+  <data name="lblFileName.Text" xml:space="preserve">
+    <value>Nazwa pliku:</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - Po przechwyceniu</value>
   </data>
 </root>

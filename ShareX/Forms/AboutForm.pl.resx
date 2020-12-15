@@ -117,10 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lblHotkeyDescription.Text" xml:space="preserve">
-    <value>Opis</value>
+  <data name="btnClose.Text" xml:space="preserve">
+    <value>Zamknij</value>
   </data>
-  <data name="btnHotkey.Text" xml:space="preserve">
-    <value>Skrót klawiszowy</value>
+  <data name="btnShareXLicense.Text" xml:space="preserve">
+    <value>Licencja programu ShareX...</value>
+  </data>
+  <data name="btnLicenses.Text" xml:space="preserve">
+    <value>Licencje...</value>
+  </data>
+  <data name="lblBuild.Text" xml:space="preserve">
+    <value>Kompilacja</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - Informacje</value>
   </data>
 </root>
