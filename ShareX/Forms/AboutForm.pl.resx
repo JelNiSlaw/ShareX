@@ -124,7 +124,7 @@
     <value>Licencja programu ShareX...</value>
   </data>
   <data name="btnLicenses.Text" xml:space="preserve">
-    <value>Licencje...</value>
+    <value>Użyte licencje...</value>
   </data>
   <data name="lblBuild.Text" xml:space="preserve">
     <value>Kompilacja</value>
