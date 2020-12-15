@@ -117,47 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="tsmiExportClipboard.Text" xml:space="preserve">
-    <value>Kopiuj do schowka</value>
+  <data name="cbAccountType.Items" xml:space="preserve">
+    <value>Anonimowy</value>
   </data>
-  <data name="tsmiExportFile.Text" xml:space="preserve">
-    <value>Zapisz do pliku...</value>
+  <data name="cbAccountType.Items1" xml:space="preserve">
+    <value>Użytkownik</value>
   </data>
-<<<<<<< HEAD
-  <data name="Y" xml:space="preserve">
-    <value>Z schowka</value>
-  </data>
-=======
->>>>>>> a53b512eb587d23c14d3bff7218a15089605e2fa
-  <data name="tsmiImportFile.Text" xml:space="preserve">
-    <value>Z pliku...</value>
-  </data>
-  <data name="tsmiImportURL.Text" xml:space="preserve">
-<<<<<<< HEAD
-    <value>Z URL...</value>
-  </data>
-  <data name="btnExport.Text" xml:space="preserve">
-    <value>Eksportuj</value>
-  </data>
-  <data name="btnImport.Text" xml:space="preserve">
-    <value>Importuj</value>
-  </data>
-  <data name="tsmiExportUpload.Text" xml:space="preserve">
-    <value>Wyślij jako tekst</value>
-=======
-    <value>Z adresu URL...</value>
-  </data>
-  <data name="btnExport.Text" xml:space="preserve">
-    <value> Eksport</value>
-  </data>
-  <data name="btnImport.Text" xml:space="preserve">
-    <value> Import</value>
-  </data>
-  <data name="tsmiExportUpload.Text" xml:space="preserve">
-    <value>Prześlij jako tekst</value>
-  </data>
-  <data name="tsmiImportClipboard.Text" xml:space="preserve">
-    <value>Ze schowka</value>
->>>>>>> a53b512eb587d23c14d3bff7218a15089605e2fa
+  <data name="lblAccountType.Text" xml:space="preserve">
+    <value>Typ konta:</value>
   </data>
 </root>

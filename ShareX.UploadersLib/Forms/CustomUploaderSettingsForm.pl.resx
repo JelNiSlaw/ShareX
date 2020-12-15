@@ -117,47 +117,130 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="tsmiExportClipboard.Text" xml:space="preserve">
-    <value>Kopiuj do schowka</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - Ustawienia własnego przesyłania</value>
   </data>
-  <data name="tsmiExportFile.Text" xml:space="preserve">
-    <value>Zapisz do pliku...</value>
+  <data name="btnDataBeautify.Text" xml:space="preserve">
+    <value>Upiększ</value>
   </data>
-<<<<<<< HEAD
-  <data name="Y" xml:space="preserve">
-    <value>Z schowka</value>
+  <data name="btnDataMinify.Text" xml:space="preserve">
+    <value>Minimalizuj</value>
   </data>
-=======
->>>>>>> a53b512eb587d23c14d3bff7218a15089605e2fa
-  <data name="tsmiImportFile.Text" xml:space="preserve">
-    <value>Z pliku...</value>
+  <data name="btnDuplicate.Text" xml:space="preserve">
+    <value>Duplikuj</value>
   </data>
-  <data name="tsmiImportURL.Text" xml:space="preserve">
-<<<<<<< HEAD
-    <value>Z URL...</value>
+  <data name="btnFileUploaderTest.Text" xml:space="preserve">
+    <value>Przetestuj</value>
   </data>
-  <data name="btnExport.Text" xml:space="preserve">
-    <value>Eksportuj</value>
+  <data name="btnImageUploaderTest.Text" xml:space="preserve">
+    <value>Przetestuj</value>
   </data>
-  <data name="btnImport.Text" xml:space="preserve">
-    <value>Importuj</value>
+  <data name="btnNew.Text" xml:space="preserve">
+    <value>Nowy</value>
   </data>
-  <data name="tsmiExportUpload.Text" xml:space="preserve">
-    <value>Wyślij jako tekst</value>
-=======
-    <value>Z adresu URL...</value>
+  <data name="btnRemove.Text" xml:space="preserve">
+    <value>Usuń</value>
   </data>
-  <data name="btnExport.Text" xml:space="preserve">
-    <value> Eksport</value>
+  <data name="btnTextUploaderTest.Text" xml:space="preserve">
+    <value>Przetestuj</value>
   </data>
-  <data name="btnImport.Text" xml:space="preserve">
-    <value> Import</value>
+  <data name="btnURLSharingServiceTest.Text" xml:space="preserve">
+    <value>Przetestuj</value>
   </data>
-  <data name="tsmiExportUpload.Text" xml:space="preserve">
-    <value>Prześlij jako tekst</value>
+  <data name="btnURLShortenerTest.Text" xml:space="preserve">
+    <value>Przetestuj</value>
   </data>
-  <data name="tsmiImportClipboard.Text" xml:space="preserve">
-    <value>Ze schowka</value>
->>>>>>> a53b512eb587d23c14d3bff7218a15089605e2fa
+  <data name="btnJsonAddSyntax.Text" xml:space="preserve">
+    <value>Dodaj składnię do pola adresu URL</value>
+  </data>
+  <data name="btnJsonPathHelp.Text" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="btnRegexAddSyntax.Text" xml:space="preserve">
+    <value>Dodaj składnię do pola adresu URL</value>
+  </data>
+  <data name="btnXmlAddSyntax.Text" xml:space="preserve">
+    <value>Dodaj składnię do pola adresu URL</value>
+  </data>
+  <data name="btnXPathHelp.Text" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="cArgumentsName.HeaderText" xml:space="preserve">
+    <value>Nazwa</value>
+  </data>
+  <data name="cArgumentsValue.HeaderText" xml:space="preserve">
+    <value>Wartość</value>
+  </data>
+  <data name="cHeadersName.HeaderText" xml:space="preserve">
+    <value>Nazwa</value>
+  </data>
+  <data name="cHeadersValue.HeaderText" xml:space="preserve">
+    <value>Wartość</value>
+  </data>
+  <data name="cParametersName.HeaderText" xml:space="preserve">
+    <value>Nazwa</value>
+  </data>
+  <data name="cParametersValue.HeaderText" xml:space="preserve">
+    <value>Wartość</value>
+  </data>
+  <data name="cRegex.HeaderText" xml:space="preserve">
+    <value>Regex</value>
+  </data>
+  <data name="lblDestinationType.Text" xml:space="preserve">
+    <value>Rodzaj miejsca docelowego:</value>
+  </data>
+  <data name="lblHeaders.Text" xml:space="preserve">
+    <value>Nagłówki:</value>
+  </data>
+  <data name="lblJsonPath.Text" xml:space="preserve">
+    <value>JsonPath:</value>
+  </data>
+  <data name="lblJsonPathExample.Text" xml:space="preserve">
+    <value>Przykłady:
+
+Files[0].URL
+store.book[0].title</value>
+  </data>
+  <data name="lblName.Text" xml:space="preserve">
+    <value>Nazwa:</value>
+  </data>
+  <data name="lblParameters.Text" xml:space="preserve">
+    <value>Parametru adresu URL:</value>
+  </data>
+  <data name="lblParseResponse.Text" xml:space="preserve">
+    <value>Analizuj odpowiedź:</value>
+  </data>
+  <data name="lblRegex.Text" xml:space="preserve">
+    <value>Lista regex:</value>
+  </data>
+  <data name="lblRequestMethod.Text" xml:space="preserve">
+    <value>Metoda:</value>
+  </data>
+  <data name="lblRequestURL.Text" xml:space="preserve">
+    <value>Adres URL:</value>
+  </data>
+  <data name="lblResultDeletionURL.Text" xml:space="preserve">
+    <value>Adres URL usunięcia:</value>
+  </data>
+  <data name="lblResultErrorMessage.Text" xml:space="preserve">
+    <value>Treść błędu:</value>
+  </data>
+  <data name="lblResultThumbnailURL.Text" xml:space="preserve">
+    <value>Adres URL miniatury:</value>
+  </data>
+  <data name="tpXmlParse.Text" xml:space="preserve">
+    <value>XML</value>
+  </data>
+  <data name="tsbResponseTextCopy.Text" xml:space="preserve">
+    <value>Kopiuj odpowiedź</value>
+  </data>
+  <data name="tsbResponseTextJSONFormat.Text" xml:space="preserve">
+    <value>JSON</value>
+  </data>
+  <data name="tsbResponseTextXMLFormat.Text" xml:space="preserve">
+    <value>XML</value>
+  </data>
+  <data name="tsmiExportAll.Text" xml:space="preserve">
+    <value>Eksportuj wszystkie...</value>
   </data>
 </root>
