@@ -372,4 +372,7 @@
   <data name="gbClipboardFormats.Text" xml:space="preserve">
     <value>Formaty schowka - pojawiają się w menu kontekstowym w oknie głównym</value>
   </data>
+  <data name="tpUploadResults.Text" xml:space="preserve">
+    <value>Rezultaty</value>
+  </data>
 </root>
