@@ -117,34 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lblName.Text" xml:space="preserve">
-    <value>Nazwa:</value>
+  <data name="ActionsCodeMenuEntry_FilePath_File_path" xml:space="preserve">
+    <value>Lokalizacja pliku</value>
   </data>
-  <data name="lblPath.Text" xml:space="preserve">
-    <value>Lokalizacja pliku:</value>
+  <data name="ExportImportControl_tsmiExportClipboard_Click_Settings_copied_to_your_clipboard_" xml:space="preserve">
+    <value>Ustawienia skopiowane do schowka.</value>
   </data>
-  <data name="btnOK.Text" xml:space="preserve">
-    <value>OK</value>
+  <data name="HotkeyType_StopUploads_Category" xml:space="preserve">
+    <value>Przekaż</value>
   </data>
-  <data name="btnCancel.Text" xml:space="preserve">
-    <value>Anuluj</value>
+  <data name="ObjectListView_ObjectListView_Copy_value" xml:space="preserve">
+    <value>Kopiuj wartość</value>
   </data>
-  <data name="lblExtensions.Text" xml:space="preserve">
-    <value>Filtrowanie rozszerzeń (np. jpg, png, mp4)</value>
+  <data name="ShapeType_DrawingLine" xml:space="preserve">
+    <value>Linia (L)</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Akcje</value>
+  <data name="AfterCaptureTasks_ShowBeforeUploadWindow" xml:space="preserve">
+    <value>Pokaż okno "Przed przekazaniem"</value>
   </data>
-  <data name="lblArgs.Text" xml:space="preserve">
-    <value>Argumenty:</value>
+  <data name="ShapeType_RegionFreehand" xml:space="preserve">
+    <value>Ręczny region</value>
   </data>
-  <data name="cbDeleteInputFile.Text" xml:space="preserve">
-    <value>Usuń plik wejściowy</value>
+  <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
+    <value>Losowe GUID</value>
   </data>
-  <data name="cbHiddenWindow.Text" xml:space="preserve">
-    <value>Ukryte okno</value>
+  <data name="HotkeyType_FileUpload" xml:space="preserve">
+    <value>Przekaż plik</value>
   </data>
-  <data name="lblOutputExtension.Text" xml:space="preserve">
-    <value>Rozszerzenie pliku wyjściowego (Puste = użyj samej nazwy pliku)</value>
+  <data name="HotkeyType_ScreenRecorderGIFCustomRegion_Category" xml:space="preserve">
+    <value>Nagraj ekran</value>
+  </data>
+  <data name="ProxyMethod_Automatic" xml:space="preserve">
+    <value>Automatyczne</value>
+  </data>
+  <data name="HotkeyType_RectangleLight" xml:space="preserve">
+    <value>Region przechwytywania (Jasny)</value>
+  </data>
+  <data name="AfterCaptureTasks_ScanQRCode" xml:space="preserve">
+    <value>Skanuj kod QR</value>
+  </data>
+  <data name="RegionCaptureAction_CancelCapture" xml:space="preserve">
+    <value>Anuluj przechwytywanie</value>
+  </data>
+  <data name="HotkeyType_CaptureWebpage" xml:space="preserve">
+    <value>Przechwytywanie strony internetowej</value>
+  </data>
+  <data name="HotkeyType_AbortScreenRecording_Category" xml:space="preserve">
+    <value>Nagraj ekran</value>
+  </data>
+  <data name="ShapeType_ToolSelect" xml:space="preserve">
+    <value>Zaznacz i przenieś (M)</value>
+  </data>
+  <data name="HotkeyType_UploadURL_Category" xml:space="preserve">
+    <value>Przekaż</value>
+  </data>
+  <data name="ResponseType_Headers" xml:space="preserve">
+    <value>Nagłówki odpowiedzi</value>
+  </data>
+  <data name="HotkeyType_OpenHistory" xml:space="preserve">
+    <value>Otwórz okno historii</value>
+  </data>
+  <data name="AfterCaptureTasks_ShowInExplorer" xml:space="preserve">
+    <value>Pokaż plik w exploratorze</value>
+  </data>
+  <data name="ReplCodeMenuEntry_s_Current_second" xml:space="preserve">
+    <value>Drugie</value>
   </data>
 </root>

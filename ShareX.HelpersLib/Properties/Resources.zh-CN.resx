@@ -913,9 +913,6 @@
   <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
     <value>自动递增的大小写敏感字母与数字</value>
   </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>由 {n} 为基础制动递增的字母数字 (1 &lt; n &lt; 63)</value>
-  </data>
   <data name="ScrollingCaptureScrollMethod_SendMessageScroll" xml:space="preserve">
     <value>发送滚动消息至窗口或控件</value>
   </data>
@@ -930,6 +927,9 @@
   </data>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>自动尝试所有方法，直到某方法生效</value>
+  </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>由 {n} 为基础制动递增的字母数字 (1 &lt; n &lt; 63)</value>
   </data>
   <data name="ShapeType_DrawingSpeechBalloon" xml:space="preserve">
     <value>绘图：文本气泡 (S)</value>

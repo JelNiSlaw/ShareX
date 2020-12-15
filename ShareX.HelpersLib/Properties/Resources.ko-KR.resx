@@ -949,9 +949,6 @@
   <data name="ReplCodeMenuEntry_ix_Auto_increment_hexadecimal" xml:space="preserve">
     <value>자동 증가하는 16진법 숫자. 0으로 {n}만큼 패딩</value>
   </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>자동 증가하는 {n}진법 영숫자 (1 &lt; n &lt; 63)</value>
-  </data>
   <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
     <value>임의의 GUID</value>
   </data>
@@ -1074,6 +1071,9 @@
   </data>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>될 때 까지 자동으로 모든 방법을 시험해 보기</value>
+  </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>자동 증가하는 {n}진법 영숫자 (1 &lt; n &lt; 63)</value>
   </data>
   <data name="ScrollingCaptureScrollMethod_SendMessageScroll" xml:space="preserve">
     <value>창이나 컨트롤에 스크롤 메세지 보내기</value>

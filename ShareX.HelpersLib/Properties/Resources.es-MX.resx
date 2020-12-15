@@ -365,9 +365,6 @@
   <data name="ReplCodeMenuEntry_ia_Auto_increment_alphanumeric" xml:space="preserve">
     <value>Incremento alfanumérico automático sin distinción de mayúsculas. Rellenar con ceros a la izq. con {n}</value>
   </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Incremento automático en base {n} usando caracteres alfanuméricos (1 &lt; n &lt; 63)</value>
-  </data>
   <data name="ReplCodeMenuEntry_ix_Auto_increment_hexadecimal" xml:space="preserve">
     <value>Incremento hexadecimal automático. Rellenar con ceros a la izq. con {n}</value>
   </data>
@@ -388,6 +385,9 @@
   </data>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>Probar con todos los métodos hasta que uno funcione</value>
+  </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Incremento automático en base {n} usando caracteres alfanuméricos (1 &lt; n &lt; 63)</value>
   </data>
   <data name="LinearGradientMode_BackwardDiagonal" xml:space="preserve">
     <value>Diagonal inversa</value>

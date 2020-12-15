@@ -117,34 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lblName.Text" xml:space="preserve">
-    <value>Nazwa:</value>
+  <data name="lblThumbnailSizeUnit.Text" xml:space="preserve">
+    <value>px</value>
   </data>
-  <data name="lblPath.Text" xml:space="preserve">
-    <value>Lokalizacja pliku:</value>
-  </data>
-  <data name="btnOK.Text" xml:space="preserve">
-    <value>OK</value>
-  </data>
-  <data name="btnCancel.Text" xml:space="preserve">
-    <value>Anuluj</value>
-  </data>
-  <data name="lblExtensions.Text" xml:space="preserve">
-    <value>Filtrowanie rozszerzeń (np. jpg, png, mp4)</value>
+  <data name="cbRememberSearchText.Text" xml:space="preserve">
+    <value>Zapamiętaj dane wyszukiwania</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Akcje</value>
+    <value>ShareX - historia ustawień obrazu</value>
   </data>
-  <data name="lblArgs.Text" xml:space="preserve">
-    <value>Argumenty:</value>
+  <data name="cbFilterMissingFiles.Text" xml:space="preserve">
+    <value>Filtruj brakujące pliki</value>
   </data>
-  <data name="cbDeleteInputFile.Text" xml:space="preserve">
-    <value>Usuń plik wejściowy</value>
+  <data name="lblViewMode.Text" xml:space="preserve">
+    <value>Tryb podglądu:</value>
   </data>
-  <data name="cbHiddenWindow.Text" xml:space="preserve">
-    <value>Ukryte okno</value>
+  <data name="lblMaximumImageLimit.Text" xml:space="preserve">
+    <value>Maksymalny limit pliku:</value>
   </data>
-  <data name="lblOutputExtension.Text" xml:space="preserve">
-    <value>Rozszerzenie pliku wyjściowego (Puste = użyj samej nazwy pliku)</value>
+  <data name="lblThumbnailSize.Text" xml:space="preserve">
+    <value>Wielkość miniaturki:</value>
   </data>
 </root>
