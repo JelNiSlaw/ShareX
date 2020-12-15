@@ -117,70 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Efekty obrazów</value>
+  <data name="btnStart.Text" xml:space="preserve">
+    <value>Zrób zrzuty ekranu</value>
   </data>
-  <data name="btnClose.Text" xml:space="preserve">
-    <value>Zamknij</value>
-  </data>
-  <data name="btnEffectAdd.ToolTip" xml:space="preserve">
-    <value>Dodaj</value>
-  </data>
-  <data name="btnEffectClear.ToolTip" xml:space="preserve">
-    <value>Wyczyść...</value>
-  </data>
-  <data name="btnEffectDuplicate.ToolTip" xml:space="preserve">
-    <value>Duplikuj</value>
-  </data>
-  <data name="btnEffectRefresh.ToolTip" xml:space="preserve">
-    <value>Odśwież</value>
-  </data>
-  <data name="btnEffectRemove.ToolTip" xml:space="preserve">
-    <value>Usuń</value>
-  </data>
-  <data name="btnImageEffects.Text" xml:space="preserve">
-    <value>Efekty obrazów...</value>
-  </data>
-  <data name="btnOK.Text" xml:space="preserve">
-    <value>OK</value>
-  </data>
-  <data name="btnPackager.Text" xml:space="preserve">
-    <value>Program pakujący...</value>
-  </data>
-  <data name="btnPresetDuplicate.ToolTip" xml:space="preserve">
-    <value>Duplikuj</value>
-  </data>
-  <data name="btnPresetNew.ToolTip" xml:space="preserve">
-    <value>Nowy</value>
-  </data>
-  <data name="btnPresetRemove.ToolTip" xml:space="preserve">
-    <value>Usuń</value>
-  </data>
-  <data name="btnSaveImage.Text" xml:space="preserve">
-    <value>Zapisz obraz...</value>
-  </data>
-  <data name="btnUploadImage.Text" xml:space="preserve">
-    <value>Prześlij obraz</value>
-  </data>
-  <data name="lblEffect.Text" xml:space="preserve">
-    <value>Efekt:</value>
-  </data>
-  <data name="lblEffects.Text" xml:space="preserve">
-    <value>Efekty:</value>
-  </data>
-  <data name="lblPresetName.Text" xml:space="preserve">
-    <value>Nazwa ustawienia wstępnego:</value>
-  </data>
-  <data name="lblPresets.Text" xml:space="preserve">
-    <value>Ustawienia wstępne:</value>
-  </data>
-  <data name="mbLoadImage.Text" xml:space="preserve">
-    <value>Wczytaj obraz</value>
-  </data>
-  <data name="tsmiLoadImageFromClipboard.Text" xml:space="preserve">
-    <value>Ze schowka</value>
-  </data>
-  <data name="tsmiLoadImageFromFile.Text" xml:space="preserve">
-    <value>Z pliku...</value>
+  <data name="btnBrowse.Text" xml:space="preserve">
+    <value>...</value>
   </data>
 </root>
