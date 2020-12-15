@@ -147,4 +147,10 @@
   <data name="lblOutputFolder.Text" xml:space="preserve">
     <value>Folder wyjściowy:</value>
   </data>
+  <data name="txtOutputFilename.Text" xml:space="preserve">
+    <value>$filename_th</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - Kreator miniaturek obrazów</value>
+  </data>
 </root>

@@ -124,7 +124,7 @@
     <value>Usuń</value>
   </data>
   <data name="lblSpace.Text" xml:space="preserve">
-    <value>Odstęp między obrazami:</value>
+    <value>Odstęp pomiędzy obrazami:</value>
   </data>
   <data name="lblSpacePixel.Text" xml:space="preserve">
     <value>piksele</value>
@@ -136,12 +136,24 @@
     <value>Wyrównanie obrazu:</value>
   </data>
   <data name="rbOrientationHorizontal.Text" xml:space="preserve">
-    <value>Horyzontalnie</value>
+    <value>Poziomo</value>
   </data>
   <data name="rbOrientationVertical.Text" xml:space="preserve">
-    <value>Wertykalnie</value>
+    <value>Pionowo</value>
   </data>
   <data name="lblOrientation.Text" xml:space="preserve">
     <value>Połącz orientację:</value>
+  </data>
+  <data name="btnMoveDown.Text" xml:space="preserve">
+    <value>Przenieś w dół</value>
+  </data>
+  <data name="btnMoveUp.Text" xml:space="preserve">
+    <value>Przenieś w górę</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - Łączenie obrazów</value>
+  </data>
+  <data name="btnCombine.Text" xml:space="preserve">
+    <value>Połącz obrazy i zapisz/prześlij bazując na ustawieniach przechwytywania</value>
   </data>
 </root>

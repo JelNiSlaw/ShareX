@@ -139,6 +139,9 @@
     <value>Podziel obraz</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Rozdzi</value>
+    <value>ShareX - Dzielenie obrazów</value>
+  </data>
+  <data name="btnCopyChatEmoji.Text" xml:space="preserve">
+    <value>Kopiuj składnię czatu emoji</value>
   </data>
 </root>
