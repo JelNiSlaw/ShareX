@@ -124,7 +124,7 @@
     <value>Stwórz nowe zdjęcie...</value>
   </data>
   <data name="btnLoadImageFromClipboard.Text" xml:space="preserve">
-    <value>Załaduj zdjęcie z klawiatury</value>
+    <value>Załaduj obraz z klawiatury</value>
   </data>
   <data name="btnOpenImageFile.Text" xml:space="preserve">
     <value>Otwórz plik obrazu...</value>

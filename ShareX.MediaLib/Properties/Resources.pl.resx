@@ -145,10 +145,10 @@
     <value>Prawo</value>
   </data>
   <data name="StartEncoding" xml:space="preserve">
-    <value>Rozpocznij rozkodowanie</value>
+    <value>Rozpocznij kodowanie</value>
   </data>
   <data name="StopEncoding" xml:space="preserve">
-    <value>Zatrzymaj rozkodowanie</value>
+    <value>Zatrzymaj kodowanie</value>
   </data>
   <data name="ThumbnailsSuccessfullyGenerated" xml:space="preserve">
     <value>Pomyślnie wygenerowano miniatury.</value>
