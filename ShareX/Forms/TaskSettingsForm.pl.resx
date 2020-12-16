@@ -406,12 +406,36 @@
     <value>Nagrywanie ekranu</value>
   </data>
   <data name="tpRegionCapture.Text" xml:space="preserve">
-    <value>Przechwytywanie regionu</value>
+    <value>Przechwytywanie obszaru</value>
   </data>
   <data name="lblScreenRecordFPS.Text" xml:space="preserve">
     <value>FPS nagrywania ekranu:</value>
   </data>
   <data name="chkOverrideGeneralSettings.Text" xml:space="preserve">
     <value>Nadpisz ogólne ustawienia</value>
+  </data>
+  <data name="cbScreenRecordConfirmAbort.Text" xml:space="preserve">
+    <value>Zapytaj o potwierdzenie przy przerwaniu</value>
+  </data>
+  <data name="tsmiURLShorteners.Text" xml:space="preserve">
+    <value>Skracacze linków</value>
+  </data>
+  <data name="cbClipboardUploadShortenURL.Text" xml:space="preserve">
+    <value>Jeśli schowek zawiera adres URL, to użyj skracacza linków</value>
+  </data>
+  <data name="lblRegionCaptureMouseRightClickAction.Text" xml:space="preserve">
+    <value>Akcja prawego przycisku myszy:</value>
+  </data>
+  <data name="lblRegionCaptureMouseMiddleClickAction.Text" xml:space="preserve">
+    <value>Akcja kółka myszy:</value>
+  </data>
+  <data name="lblRegionCaptureMouse5ClickAction.Text" xml:space="preserve">
+    <value>Akcja 5 przycisku myszy:</value>
+  </data>
+  <data name="lblRegionCaptureMouse4ClickAction.Text" xml:space="preserve">
+    <value>Akcja 4 przycisku myszy:</value>
+  </data>
+  <data name="cbRegionCaptureDetectControls.Text" xml:space="preserve">
+    <value>Wykryj także obszary wewnątrz okien</value>
   </data>
 </root>

@@ -500,4 +500,10 @@ Czy chcesz automatycznie go pobrać?</value>
   <data name="HotkeyManager_ShowFailedHotkeys_hotkeys" xml:space="preserve">
     <value>skróty klawiszowe</value>
   </data>
+  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
+    <value>Skracacz linków: {0}</value>
+  </data>
+  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
+    <value>Używaj nowej nazwy: </value>
+  </data>
 </root>

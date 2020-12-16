@@ -139,7 +139,7 @@
     <value>Anuluj</value>
   </data>
   <data name="ImageEffectsForm_UpdatePreview_Image_effects___Width___0___Height___1___Render_time___2__ms" xml:space="preserve">
-    <value>Efekty obrazów - Szerokość: {0}, Wysokość: {1}, Czas renderowania: {2} ms</value>
+    <value>Efekty - Szerokość: {0}, Wysokość: {1}, Czas renderowania: {2} ms</value>
   </data>
   <data name="MissingPresetName" xml:space="preserve">
     <value>Brakująca nazwa ustawienia wstępnego</value>
@@ -155,7 +155,7 @@ Czy chcesz go nadpisać?</value>
     <value>Czy chcesz wyczyścić efekty?</value>
   </data>
   <data name="AssetsFolderMustBeInsideShareXImageEffectsFolder" xml:space="preserve">
-    <value>Folder z zasobami musi znajdować się w folderze efektów obrazów ShareX.</value>
+    <value>Folder z zasobami musi znajdować się w folderze efektów ShareX.</value>
   </data>
   <data name="InvalidAssetsFolderPath" xml:space="preserve">
     <value>Niepoprawna ścieżka folderu zasobów</value>

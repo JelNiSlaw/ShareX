@@ -243,4 +243,22 @@ store.book[0].title</value>
   <data name="tsmiExportAll.Text" xml:space="preserve">
     <value>Eksportuj wszystkie...</value>
   </data>
+  <data name="lblXPathExample.Text" xml:space="preserve">
+    <value>Przykłady:
+
+/Files/File[1]/URL
+/store/book[1]/title</value>
+  </data>
+  <data name="tscResponseText.Text" xml:space="preserve">
+    <value>toolStripContainer1</value>
+  </data>
+  <data name="lblResultURL.Text" xml:space="preserve">
+    <value>Adres URL:</value>
+  </data>
+  <data name="lblURLShortener.Text" xml:space="preserve">
+    <value>Skracacz linków:</value>
+  </data>
+  <data name="tpRegexParse.Text" xml:space="preserve">
+    <value>Regex</value>
+  </data>
 </root>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BaseRegionForm_InitializeComponent_Region_capture" xml:space="preserve">
-    <value>Przechwytywanie regionu</value>
+    <value>Przechwytywanie obszaru</value>
   </data>
   <data name="CloseEsc" xml:space="preserve">
     <value>Zamknij (Esc)</value>
@@ -161,5 +161,17 @@
   </data>
   <data name="ShapeManager_CreateToolbar_CopyImageToClipboard" xml:space="preserve">
     <value>Kopiuj obraz do schowka (Ctrl + Shift + C)</value>
+  </data>
+  <data name="NewLineCtrlEnterOKEnter" xml:space="preserve">
+    <value>Nowa linia: Ctrl + Enter, OK: Enter</value>
+  </data>
+  <data name="NewLineEnterOKCtrlEnter" xml:space="preserve">
+    <value>Nowa linia: Enter, OK: Ctrl + Enter</value>
+  </data>
+  <data name="ShapeManager_CreateToolbar_LastRegion" xml:space="preserve">
+    <value>Przechwyć ostatnie obszar</value>
+  </data>
+  <data name="ShapeManager_CreateToolbar_CaptureRegions" xml:space="preserve">
+    <value>Obszary przechwytywania</value>
   </data>
 </root>

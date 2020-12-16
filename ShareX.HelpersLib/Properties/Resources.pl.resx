@@ -136,7 +136,7 @@
     <value>Pokaż okno "Przed przekazaniem"</value>
   </data>
   <data name="ShapeType_RegionFreehand" xml:space="preserve">
-    <value>Ręczny region</value>
+    <value>Odręczny obszar</value>
   </data>
   <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
     <value>Losowe GUID</value>
@@ -151,7 +151,7 @@
     <value>Automatyczne</value>
   </data>
   <data name="HotkeyType_RectangleLight" xml:space="preserve">
-    <value>Region przechwytywania (Jasny)</value>
+    <value>Przechwyć obszar (Lekki)</value>
   </data>
   <data name="AfterCaptureTasks_ScanQRCode" xml:space="preserve">
     <value>Skanuj kod QR</value>
@@ -182,5 +182,167 @@
   </data>
   <data name="ReplCodeMenuEntry_s_Current_second" xml:space="preserve">
     <value>Drugie</value>
+  </data>
+  <data name="YouTubeVideoPrivacy_Private" xml:space="preserve">
+    <value>Prywatny</value>
+  </data>
+  <data name="YouTubeVideoPrivacy_Unlisted" xml:space="preserve">
+    <value>Niepubliczny</value>
+  </data>
+  <data name="YouTubeVideoPrivacy_Public" xml:space="preserve">
+    <value>Publiczny</value>
+  </data>
+  <data name="AfterCaptureTasks_AddImageEffects" xml:space="preserve">
+    <value>Dodaj efekty</value>
+  </data>
+  <data name="ArrowHeadDirection_Both" xml:space="preserve">
+    <value>Oba</value>
+  </data>
+  <data name="ArrowHeadDirection_End" xml:space="preserve">
+    <value>Koniec</value>
+  </data>
+  <data name="ArrowHeadDirection_Start" xml:space="preserve">
+    <value>Początek</value>
+  </data>
+  <data name="MyMessageBox_MyMessageBox_OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="FileDestination_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="URLSharingServices_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="HotkeyType_ImageEffects_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_ColorPicker_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_HashCheck_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_FTPClient_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_Ruler_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_VideoThumbnailer_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_ImageCombiner_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_ImageEditor_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_VideoConverter_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_QRCodeDecodeFromScreen_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_QRCode_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_ImageThumbnailer_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_IndexFolder_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_MonitorTest_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_ScreenColorPicker_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_TweetMessage_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_DNSChanger_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="HotkeyType_ImageSplitter_Category" xml:space="preserve">
+    <value>Narzędzia</value>
+  </data>
+  <data name="ReplCodeMenuEntry_t_Title_of_active_window" xml:space="preserve">
+    <value>Tytuł okna</value>
+  </data>
+  <data name="MyMessageBox_MyMessageBox_Yes" xml:space="preserve">
+    <value>Tak</value>
+  </data>
+  <data name="ProxyMethod_None" xml:space="preserve">
+    <value>Brak</value>
+  </data>
+  <data name="HotkeyType_None" xml:space="preserve">
+    <value>Brak</value>
+  </data>
+  <data name="DrawImageSizeMode_AbsoluteSize" xml:space="preserve">
+    <value>Rozmiar absolutny</value>
+  </data>
+  <data name="HotkeyType_AbortScreenRecording" xml:space="preserve">
+    <value>Przerwij nagrywanie ekranu</value>
+  </data>
+  <data name="ExportImportControl_tsmiImportURL_Click_URL_to_download_settings_from" xml:space="preserve">
+    <value>Adres URL do pobrania ustawień</value>
+  </data>
+  <data name="CustomUploaderDestinationType_URLShortener" xml:space="preserve">
+    <value>Skracacz linków</value>
+  </data>
+  <data name="UrlShortenerType_CustomURLShortener" xml:space="preserve">
+    <value>Własny skracacz linków</value>
+  </data>
+  <data name="ReplCodeMenuEntry_un_User_name" xml:space="preserve">
+    <value>Nazwa użytkownika</value>
+  </data>
+  <data name="ReplCodeMenuEntry_uln_User_login_name" xml:space="preserve">
+    <value>Nazwa użytkownika</value>
+  </data>
+  <data name="ScrollingCaptureScrollMethod_MouseWheel" xml:space="preserve">
+    <value>Symuluj przewijanie kółkiem myszy</value>
+  </data>
+  <data name="HotkeyType_ScrollingCapture" xml:space="preserve">
+    <value>Przewijane przechwycenie</value>
+  </data>
+  <data name="ScrollingCaptureScrollTopMethod_None" xml:space="preserve">
+    <value>Wyłącz przewijanie do góry</value>
+  </data>
+  <data name="ScrollingCaptureScrollTopMethod_SendMessageTop" xml:space="preserve">
+    <value>Wyślij prośbę przewinięcia do okna do góry</value>
+  </data>
+  <data name="ScrollingCaptureScrollMethod_SendMessageScroll" xml:space="preserve">
+    <value>Wyślij prośbę przewinięcia do okna</value>
+  </data>
+  <data name="ScrollingCaptureScrollTopMethod_All" xml:space="preserve">
+    <value>Najpierw zasymuluj wciśnięcie przycisku "Home", a następnie wyślij prośbę przewinięcia do okna do góry</value>
+  </data>
+  <data name="HotkeyType_DNSChanger" xml:space="preserve">
+    <value>Zmień serwery DNS</value>
+  </data>
+  <data name="DNSChangerForm_btnSave_Click_Setting_DNS_failed_" xml:space="preserve">
+    <value>Ustawianie serwerów DNS nie powiodło się.</value>
+  </data>
+  <data name="DNSChangerForm_btnSave_Click_Setting_DNS_failed_with_error_code_" xml:space="preserve">
+    <value>Ustawianie serwerów DNS nie powiodło się z kodem:</value>
+  </data>
+  <data name="DNSChangerForm_btnSave_Click_DNS_successfully_set__Reboot_is_required_" xml:space="preserve">
+    <value>Ustawianie serwerów DNS powiodło się. Wymagane jest uruchomienie ponowne.</value>
+  </data>
+  <data name="DNSChangerForm_btnSave_Click_DNS_successfully_set_" xml:space="preserve">
+    <value>Ustawianie serwerów DNS powiodło się.</value>
+  </data>
+  <data name="HotkeyType_RectangleTransparent" xml:space="preserve">
+    <value>Obszar przechwytywania (Przezroczysty)</value>
+  </data>
+  <data name="HotkeyType_RectangleRegion" xml:space="preserve">
+    <value>Obszar przechwytywania</value>
+  </data>
+  <data name="HotkeyType_LastRegion" xml:space="preserve">
+    <value>Przechwyć ostatnie obszar</value>
+  </data>
+  <data name="HotkeyType_CustomRegion" xml:space="preserve">
+    <value>Przechwyć skonfigurowany obszar</value>
   </data>
 </root>

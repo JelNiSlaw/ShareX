@@ -292,13 +292,13 @@
     <value>Edytor zdjęć...</value>
   </data>
   <data name="tsmiImageEffects.Text" xml:space="preserve">
-    <value>Efekty zdjęcia...</value>
+    <value>Efekty...</value>
   </data>
   <data name="tsmiHashCheck.Text" xml:space="preserve">
     <value>Sprawdź sumę kontrolną...</value>
   </data>
   <data name="tsmiDNSChanger.Text" xml:space="preserve">
-    <value>Zmień DNS...</value>
+    <value>Zmień serwery DNS...</value>
   </data>
   <data name="tsmiQRCode.Text" xml:space="preserve">
     <value>Kod QR...</value>
@@ -319,7 +319,7 @@
     <value>Test monitora...</value>
   </data>
   <data name="tsmiURLShorteners.Text" xml:space="preserve">
-    <value>Skracacz linków</value>
+    <value>Skracacze linków</value>
   </data>
   <data name="tsbImageHistory.Text" xml:space="preserve">
     <value>Historia zdjęć...</value>
@@ -589,7 +589,7 @@
     <value>Adres URL do usunięcia</value>
   </data>
   <data name="tsmiTrayDNSChanger.Text" xml:space="preserve">
-    <value>Zmień DNS...</value>
+    <value>Zmień serwery DNS...</value>
   </data>
   <data name="tsmiTrayDonate.Text" xml:space="preserve">
     <value>Wesprzyj...</value>
@@ -619,7 +619,7 @@
     <value>Edytor zdjęć...</value>
   </data>
   <data name="tsmiTrayImageEffects.Text" xml:space="preserve">
-    <value>Efekty zdjęcia...</value>
+    <value>Efekty...</value>
   </data>
   <data name="tsmiTrayImageHistory.Text" xml:space="preserve">
     <value>Historia zdjęć...</value>
@@ -706,7 +706,7 @@
     <value>Prześlij tekst...</value>
   </data>
   <data name="tsmiTrayURLShorteners.Text" xml:space="preserve">
-    <value>Skracacz linków</value>
+    <value>Skracacze linków</value>
   </data>
   <data name="tsmiTrayVideoConverter.Text" xml:space="preserve">
     <value>Konwerter wideo...</value>
@@ -758,5 +758,17 @@
   </data>
   <data name="tsmiTrayShowDebugLog.Text" xml:space="preserve">
     <value>Dziennik debugowania...</value>
+  </data>
+  <data name="tsmiTrayScrollingCapture.Text" xml:space="preserve">
+    <value>Przewijane przechwycenie...</value>
+  </data>
+  <data name="tsmiScrollingCapture.Text" xml:space="preserve">
+    <value>Przewijane przechwycenie...</value>
+  </data>
+  <data name="tsmiRectangleLight.Text" xml:space="preserve">
+    <value>Obszar (Lekki)</value>
+  </data>
+  <data name="tsmiTrayRectangleLight.Text" xml:space="preserve">
+    <value>Obszar (Lekki)</value>
   </data>
 </root>

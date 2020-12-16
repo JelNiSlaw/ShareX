@@ -121,7 +121,7 @@
     <value>Adaptery sieciowe:</value>
   </data>
   <data name="lblPreferredDNS.Text" xml:space="preserve">
-    <value>Preferowany serwer DNS:</value>
+    <value>Preferowany DNS:</value>
   </data>
   <data name="lblAlternateDNS.Text" xml:space="preserve">
     <value>Alternatywny serwer DNS:</value>
@@ -145,6 +145,6 @@
     <value>Ping</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Zmiana DNS</value>
+    <value>ShareX - Zmiana serwerów DNS</value>
   </data>
 </root>

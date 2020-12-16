@@ -125,7 +125,7 @@
 Wybierz nową nazwę pliku lub akcję:</value>
   </data>
   <data name="btnNewName.Text" xml:space="preserve">
-    <value>Użyj nowej nazwy:</value>
+    <value>Używaj nowej nazwy:</value>
   </data>
   <data name="btnUniqueName.Text" xml:space="preserve">
     <value>Użyj unikalnej nazwy: </value>
