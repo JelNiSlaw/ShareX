@@ -422,4 +422,82 @@
 
 Możesz je później wyłączyć w menu "Po przechwyceniu".</value>
   </data>
+  <data name="UploadTask_DoUploadJob_You_are_attempting_to_upload_a_large_file" xml:space="preserve">
+    <value>Próbujesz przesłać duży plik.
+Czy na pewno chcesz kontynuować?</value>
+  </data>
+  <data name="UploadManager_IsUploadConfirmed_Don_t_show_this_message_again_" xml:space="preserve">
+    <value>Nie pokazuj tej wiadomości ponowinie.</value>
+  </data>
+  <data name="UploadManager_IsUploadConfirmed_Upload_files" xml:space="preserve">
+    <value>Prześlij pliki</value>
+  </data>
+  <data name="UploadManager_ShowShortenURLDialog_Shorten" xml:space="preserve">
+    <value>Skróć</value>
+  </data>
+  <data name="UploadManager_ShowShortenURLDialog_ShortenURL" xml:space="preserve">
+    <value>Skróć adres URL</value>
+  </data>
+  <data name="UploadManager_UploadFile_File_upload" xml:space="preserve">
+    <value>Przesyłanie plików</value>
+  </data>
+  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
+    <value>Przesyłanie folderów</value>
+  </data>
+  <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
+    <value>Adres URL do pobierania i wysyłania</value>
+  </data>
+  <data name="UploadManager_DownloadAndUploadFile_Download_failed" xml:space="preserve">
+    <value>Pobieranie nie powiodło się:
+{0}</value>
+  </data>
+  <data name="TaskHelpers_TweetMessage_Unable_to_find_valid_Twitter_account_" xml:space="preserve">
+    <value>Nie udało się znaleźć poprawnego konta Twitter.</value>
+  </data>
+  <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
+    <value>ShareX musi zostać uruchomiony ponownie, aby zmiany własnego folderu zostały zastosowane.
+
+Czy chcesz zrestartować ShareX?</value>
+  </data>
+  <data name="ScreenRecordForm_StartRecording_Waiting___" xml:space="preserve">
+    <value>Oczekiwanie...</value>
+  </data>
+  <data name="ScreenRecordForm_StartRecording_Encoding___" xml:space="preserve">
+    <value>Kodowanie...</value>
+  </data>
+  <data name="ScreenRecordForm_StartRecording_Missing" xml:space="preserve">
+    <value>Brakujący</value>
+  </data>
+  <data name="ScreenRecordForm_StartRecording_does_not_exist" xml:space="preserve">
+    <value>{0} nie istnieje.
+
+Czy chcesz automatycznie go pobrać?</value>
+  </data>
+  <data name="QRCodeForm_InputTextToEncode" xml:space="preserve">
+    <value>Tekst do zakodowania</value>
+  </data>
+  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
+    <value>Czy na pewno chcesz usunąć ten plik?</value>
+  </data>
+  <data name="MainForm_tsmiDeleteSelectedFile_Click_File_delete_confirmation" xml:space="preserve">
+    <value>Potwierdzenie usunięcia pliku</value>
+  </data>
+  <data name="MainForm_UpdateMainFormTip_Currently_configured_hotkeys_" xml:space="preserve">
+    <value>Aktualnie skonfigurowane skróty klawiszowe:</value>
+  </data>
+  <data name="MainForm_UpdateMainWindowLayout_Show_columns" xml:space="preserve">
+    <value>Pokaż kolumny</value>
+  </data>
+  <data name="FailedToSaveSettings" xml:space="preserve">
+    <value>Nie udało się zapisać ustawień</value>
+  </data>
+  <data name="Hotkey" xml:space="preserve">
+    <value>Skrót klawiszowy</value>
+  </data>
+  <data name="HotkeyManager_ShowFailedHotkeys_hotkey" xml:space="preserve">
+    <value>sktót klawiszowy</value>
+  </data>
+  <data name="HotkeyManager_ShowFailedHotkeys_hotkeys" xml:space="preserve">
+    <value>skróty klawiszowe</value>
+  </data>
 </root>

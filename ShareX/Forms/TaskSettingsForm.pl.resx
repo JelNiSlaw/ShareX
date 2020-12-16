@@ -199,10 +199,10 @@
     <value>Odtwórz dźwięk po przechwyceniu</value>
   </data>
   <data name="cbOverrideAfterCaptureSettings.Text" xml:space="preserve">
-    <value>Nadpisanie ustawień po przechwyceniu</value>
+    <value>Nadpisz ustawienia po przechwyceniu</value>
   </data>
   <data name="cbOverrideAfterUploadSettings.Text" xml:space="preserve">
-    <value>Nadpisanie ustawień po przesłaniu</value>
+    <value>Nadpisz ustawienia po przesłaniu</value>
   </data>
   <data name="tpImage.Text" xml:space="preserve">
     <value>Obraz</value>
@@ -241,7 +241,7 @@
     <value>Zaawansowane</value>
   </data>
   <data name="cbOverrideScreenshotsFolder.Text" xml:space="preserve">
-    <value>Nadpisanie folderu zrzutów ekranu</value>
+    <value>Nadpisz folder zrzutów ekranu</value>
   </data>
   <data name="btnUploaderFiltersAdd.Text" xml:space="preserve">
     <value>Dodaj</value>
@@ -395,5 +395,23 @@
   </data>
   <data name="btnImageEffects.Text" xml:space="preserve">
     <value>Konfiguracja efektów...</value>
+  </data>
+  <data name="cbNameFormatCustomTimeZone.Text" xml:space="preserve">
+    <value>Użyj własnej strefy czasowej:</value>
+  </data>
+  <data name="cbOverrideDestinationSettings.Text" xml:space="preserve">
+    <value>Nadpisz miejsca docelowe</value>
+  </data>
+  <data name="tpScreenRecorder.Text" xml:space="preserve">
+    <value>Nagrywanie ekranu</value>
+  </data>
+  <data name="tpRegionCapture.Text" xml:space="preserve">
+    <value>Przechwytywanie regionu</value>
+  </data>
+  <data name="lblScreenRecordFPS.Text" xml:space="preserve">
+    <value>FPS nagrywania ekranu:</value>
+  </data>
+  <data name="chkOverrideGeneralSettings.Text" xml:space="preserve">
+    <value>Nadpisz ogólne ustawienia</value>
   </data>
 </root>
