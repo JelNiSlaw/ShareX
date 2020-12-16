@@ -130,10 +130,10 @@
     <value>Z adresu URL...</value>
   </data>
   <data name="btnExport.Text" xml:space="preserve">
-    <value>Eksport</value>
+    <value> Eksport</value>
   </data>
   <data name="btnImport.Text" xml:space="preserve">
-    <value>Import</value>
+    <value> Import</value>
   </data>
   <data name="tsmiExportUpload.Text" xml:space="preserve">
     <value>Prześlij jako tekst</value>
