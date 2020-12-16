@@ -289,10 +289,10 @@
     <value>Pobierz kolor z ekranu...</value>
   </data>
   <data name="tsmiImageEditor.Text" xml:space="preserve">
-    <value>Edytor zdjęć...</value>
+    <value>Edytor obrazów...</value>
   </data>
   <data name="tsmiImageEffects.Text" xml:space="preserve">
-    <value>Efekty...</value>
+    <value>Efekty obrazów...</value>
   </data>
   <data name="tsmiHashCheck.Text" xml:space="preserve">
     <value>Sprawdź sumę kontrolną...</value>
@@ -307,10 +307,10 @@
     <value>Linijka...</value>
   </data>
   <data name="tsmiImageCombiner.Text" xml:space="preserve">
-    <value>Łączenie zdjęć...</value>
+    <value>Łączenie obrazów...</value>
   </data>
   <data name="tsmiImageSplitter.Text" xml:space="preserve">
-    <value>Dzielenie zdjęć...</value>
+    <value>Dzielenie obrazów...</value>
   </data>
   <data name="tsmiVideoConverter.Text" xml:space="preserve">
     <value>Konwerter wideo...</value>
@@ -322,19 +322,19 @@
     <value>Skracacze linków</value>
   </data>
   <data name="tsbImageHistory.Text" xml:space="preserve">
-    <value>Historia zdjęć...</value>
+    <value>Historia obrazów...</value>
   </data>
   <data name="tsmiTestTextUpload.Text" xml:space="preserve">
-    <value>Testuj wysyłanie tekstu</value>
+    <value>Testuj przesyłanie tekstu</value>
   </data>
   <data name="tsmiTestImageUpload.Text" xml:space="preserve">
-    <value>Testuj wysyłanie zdjęcia</value>
+    <value>Testuj przesyłanie obrazu</value>
   </data>
   <data name="tsmiTestFileUpload.Text" xml:space="preserve">
-    <value>Testuj wysyłanie pliku</value>
+    <value>Testuj przesyłanie pliku</value>
   </data>
   <data name="tsddbDebug.Text" xml:space="preserve">
-    <value> </value>
+    <value>Debugowanie</value>
   </data>
   <data name="tsmiShowErrors.Text" xml:space="preserve">
     <value>Pokaż błędy</value>
@@ -391,10 +391,10 @@
     <value>Alt+C</value>
   </data>
   <data name="tsmiCopyImage.Text" xml:space="preserve">
-    <value>Zdjęcie</value>
+    <value>Obraz</value>
   </data>
   <data name="tsmiCopyImageDimensions.Text" xml:space="preserve">
-    <value>Wymiary zdjęcia</value>
+    <value>Wymiary obrazu</value>
   </data>
   <data name="tsmiCopyText.Text" xml:space="preserve">
     <value>Tekst</value>
@@ -406,7 +406,7 @@
     <value>Link na forum (BBCode)</value>
   </data>
   <data name="tsmiCopyForumImage.Text" xml:space="preserve">
-    <value>Zdjęcie na forum (BBCode)</value>
+    <value>Obraz na forum (BBCode)</value>
   </data>
   <data name="tsmiCopyForumLinkedImage.Text" xml:space="preserve">
     <value>Linkowane zdjęcie na forum (BBCode)</value>
@@ -415,7 +415,7 @@
     <value>Link w formacie Markdown</value>
   </data>
   <data name="tsmiCopyMarkdownImage.Text" xml:space="preserve">
-    <value>Zdjęcie w formacie Markdown</value>
+    <value>Obraz w formacie Markdown</value>
   </data>
   <data name="tsmiCopyMarkdownLinkedImage.Text" xml:space="preserve">
     <value>Linkowane zdjęcie w formacie Markdown</value>
@@ -454,7 +454,7 @@
     <value>Ctrl+E</value>
   </data>
   <data name="tsmiEditSelectedFile.Text" xml:space="preserve">
-    <value>Edytuj zdjęcie...</value>
+    <value>Edytuj obraz...</value>
   </data>
   <data name="tsmiRunAction.Text" xml:space="preserve">
     <value>Wykonaj akcję</value>
@@ -484,7 +484,7 @@
     <value>Pokaż kod QR...</value>
   </data>
   <data name="tsmiCombineImages.Text" xml:space="preserve">
-    <value>Połącz zdjęcia...</value>
+    <value>Połącz obrazy...</value>
   </data>
   <data name="tsmiHideMenu.Text" xml:space="preserve">
     <value>Ukryj menu</value>
@@ -607,25 +607,25 @@
     <value>Link w formacie HTML</value>
   </data>
   <data name="tsmiCopyHTMLImage.Text" xml:space="preserve">
-    <value>Zdjęcie w formacie HTML</value>
+    <value>Obraz w formacie HTML</value>
   </data>
   <data name="tsmiCopyHTMLLinkedImage.Text" xml:space="preserve">
     <value>Linkowane zdjęcie w formacie HTML</value>
   </data>
   <data name="tsmiTrayImageCombiner.Text" xml:space="preserve">
-    <value>Łączenie zdjęć...</value>
+    <value>Łączenie obrazów...</value>
   </data>
   <data name="tsmiTrayImageEditor.Text" xml:space="preserve">
-    <value>Edytor zdjęć...</value>
+    <value>Edytor obrazów...</value>
   </data>
   <data name="tsmiTrayImageEffects.Text" xml:space="preserve">
-    <value>Efekty...</value>
+    <value>Efekty obrazów...</value>
   </data>
   <data name="tsmiTrayImageHistory.Text" xml:space="preserve">
-    <value>Historia zdjęć...</value>
+    <value>Historia obrazów...</value>
   </data>
   <data name="tsmiTrayImageSplitter.Text" xml:space="preserve">
-    <value>Dzielenie zdjęć...</value>
+    <value>Dzielenie obrazów...</value>
   </data>
   <data name="tsmiTrayMonitorTest.Text" xml:space="preserve">
     <value>Test monitora...</value>
@@ -661,13 +661,13 @@
     <value>Ustawienia zadań...</value>
   </data>
   <data name="tsmiTrayTestFileUpload.Text" xml:space="preserve">
-    <value>Testuj wysyłanie pliku</value>
+    <value>Testuj przesyłanie pliku</value>
   </data>
   <data name="tsmiTrayTestImageUpload.Text" xml:space="preserve">
-    <value>Testuj wysyłanie zdjęcia</value>
+    <value>Testuj przesyłanie obrazu</value>
   </data>
   <data name="tsmiTrayTestTextUpload.Text" xml:space="preserve">
-    <value>Testuj wysyłanie tekstu</value>
+    <value>Testuj przesyłanie tekstu</value>
   </data>
   <data name="tsmiTestURLSharing.Text" xml:space="preserve">
     <value>Testuj udostępnianie linku</value>
@@ -676,10 +676,10 @@
     <value>Testuj udostępnianie linku</value>
   </data>
   <data name="tsmiTestURLShortener.Text" xml:space="preserve">
-    <value>Testuj skracacz linków</value>
+    <value>Testuj skracanie linków</value>
   </data>
   <data name="tsmiTrayTestURLShortener.Text" xml:space="preserve">
-    <value>Testuj skracacz linków</value>
+    <value>Testuj skracanie linków</value>
   </data>
   <data name="tsmiTrayTools.Text" xml:space="preserve">
     <value>Narzędzia</value>
@@ -748,10 +748,10 @@
     <value>Przeciągnij i upuść, aby przesłać...</value>
   </data>
   <data name="tsmiIndexFolder.Text" xml:space="preserve">
-    <value>Indekser katalogów...</value>
+    <value>Indekser folderów...</value>
   </data>
   <data name="tsmiTrayIndexFolder.Text" xml:space="preserve">
-    <value>Indekser katalogów...</value>
+    <value>Indekser folderów...</value>
   </data>
   <data name="tsmiTrayDebug.Text" xml:space="preserve">
     <value>Debugowanie</value>
@@ -766,9 +766,99 @@
     <value>Przewijane przechwycenie...</value>
   </data>
   <data name="tsmiRectangleLight.Text" xml:space="preserve">
-    <value>Obszar (Lekki)</value>
+    <value>Obszar (lekki)</value>
   </data>
   <data name="tsmiTrayRectangleLight.Text" xml:space="preserve">
-    <value>Obszar (Lekki)</value>
+    <value>Obszar (lekki)</value>
+  </data>
+  <data name="tsmiRectangleTransparent.Text" xml:space="preserve">
+    <value>Obszar (przezroczysty)</value>
+  </data>
+  <data name="tsmiFileUploaders.Text" xml:space="preserve">
+    <value>Uploadery plików</value>
+  </data>
+  <data name="tsmiTextUploaders.Text" xml:space="preserve">
+    <value>Uploadery tekstu</value>
+  </data>
+  <data name="tsmiTrayImageUploaders.Text" xml:space="preserve">
+    <value>Uploadery obrazów</value>
+  </data>
+  <data name="tsmiTrayTextUploaders.Text" xml:space="preserve">
+    <value>Uploadery tekstu</value>
+  </data>
+  <data name="tsmiImageUploaders.Text" xml:space="preserve">
+    <value>Uploadery obrazów</value>
+  </data>
+  <data name="tsmiTrayCustomUploaderSettings.Text" xml:space="preserve">
+    <value>Ustawienia własnego uploadera...</value>
+  </data>
+  <data name="tsmiCustomUploaderSettings.Text" xml:space="preserve">
+    <value>Ustawienia własnego uploadera...</value>
+  </data>
+  <data name="tsmiShowDebugLog.Text" xml:space="preserve">
+    <value>Dziennik debugowania...</value>
+  </data>
+  <data name="tsmiTrayFileUploaders.Text" xml:space="preserve">
+    <value>Uploadery plików</value>
+  </data>
+  <data name="tsmiTrayImageThumbnailer.Text" xml:space="preserve">
+    <value>Utwórz miniaturę obrazu...</value>
+  </data>
+  <data name="tsmiImageThumbnailer.Text" xml:space="preserve">
+    <value>Utwórz miniaturę obrazu...</value>
+  </data>
+  <data name="tsmiTrayRectangleTransparent.Text" xml:space="preserve">
+    <value>Obszar (przezroczysty)</value>
+  </data>
+  <data name="tsmiCopyThumbnailImage.Text" xml:space="preserve">
+    <value>Obraz miniatury</value>
+  </data>
+  <data name="tsmiTrayVideoThumbnailer.Text" xml:space="preserve">
+    <value>Utwórz miniaturę wideo...</value>
+  </data>
+  <data name="tsmiVideoThumbnailer.Text" xml:space="preserve">
+    <value>Utwórz miniaturę wideo...</value>
+  </data>
+  <data name="tsmiThumbnailTitleTop.Text" xml:space="preserve">
+    <value>Nad miniaturą</value>
+  </data>
+  <data name="tsmiThumbnailTitleBottom.Text" xml:space="preserve">
+    <value>Pod miniaturą</value>
+  </data>
+  <data name="tsbGitHub.ToolTipText" xml:space="preserve">
+    <value>Zostaw gwiazdkę na repozytorium</value>
+  </data>
+  <data name="tsmiImagePreviewSide.Text" xml:space="preserve">
+    <value>Z boku</value>
+  </data>
+  <data name="tsmiImagePreviewBottom.Text" xml:space="preserve">
+    <value>Na dole</value>
+  </data>
+  <data name="tsmiTrayDestinationSettings.Text" xml:space="preserve">
+    <value>Ustawienia miejsc docelowych...</value>
+  </data>
+  <data name="tsmiTrayDestinations.Text" xml:space="preserve">
+    <value>Miejsca docelowe</value>
+  </data>
+  <data name="tsddbDestinations.Text" xml:space="preserve">
+    <value>Miejsca docelowe</value>
+  </data>
+  <data name="tsmiDestinationSettings.Text" xml:space="preserve">
+    <value>Ustawienia miejsc docelowych...</value>
+  </data>
+  <data name="chElapsed.Text" xml:space="preserve">
+    <value>Upłynęło</value>
+  </data>
+  <data name="tsmiTrayURLSharingServices.Text" xml:space="preserve">
+    <value>Serwisy do udostępniania linków</value>
+  </data>
+  <data name="tsmiURLSharingServices.Text" xml:space="preserve">
+    <value>Serwisy do udostępniania linków</value>
+  </data>
+  <data name="tsmiTrayWorkflows.Text" xml:space="preserve">
+    <value>Workflow</value>
+  </data>
+  <data name="tsddbWorkflows.Text" xml:space="preserve">
+    <value>Workflow</value>
   </data>
 </root>
