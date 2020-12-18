@@ -129,4 +129,10 @@
   <data name="lblUserName.Text" xml:space="preserve">
     <value>Nazwa użytkownika:</value>
   </data>
+  <data name="lblPassword.Text" xml:space="preserve">
+    <value>Hasło:</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - Dane konta</value>
+  </data>
 </root>

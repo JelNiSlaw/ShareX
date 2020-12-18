@@ -136,7 +136,7 @@
     <value>Więcej informacji...</value>
   </data>
   <data name="HistoryItemManager_InitializeComponent_File_path" xml:space="preserve">
-    <value>Lokalizacja pliku</value>
+    <value>Ścieżka pliku</value>
   </data>
   <data name="HistoryItemManager_InitializeComponent_UploadFile" xml:space="preserve">
     <value>Przekaż plik</value>
@@ -221,5 +221,11 @@
   </data>
   <data name="HistoryItemManager_InitializeComponent_Thumbnail_URL" xml:space="preserve">
     <value>Adres URL minatury</value>
+  </data>
+  <data name="HistoryItemManager_InitializeComponent_Markdown__link" xml:space="preserve">
+    <value>Link w formacie Markdown</value>
+  </data>
+  <data name="HistoryItemManager_InitializeComponent_Markdown__linked_image" xml:space="preserve">
+    <value>Linkowany obraz w formacie Markdown</value>
   </data>
 </root>

@@ -121,7 +121,7 @@
     <value>Anuluj</value>
   </data>
   <data name="btnCreateNewImage.Text" xml:space="preserve">
-    <value>Stwórz nowe zdjęcie...</value>
+    <value>Stwórz nowy obraz...</value>
   </data>
   <data name="btnLoadImageFromClipboard.Text" xml:space="preserve">
     <value>Załaduj obraz z klawiatury</value>

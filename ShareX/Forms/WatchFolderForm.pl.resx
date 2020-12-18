@@ -130,7 +130,7 @@
     <value>Dołącz podfoldery</value>
   </data>
   <data name="lblFolderPath.Text" xml:space="preserve">
-    <value>Lokalizacja folderu:</value>
+    <value>Ścieżka folderu:</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>Anuluj</value>

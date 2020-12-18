@@ -124,7 +124,7 @@
     <value>Usuń</value>
   </data>
   <data name="lblLocation.Text" xml:space="preserve">
-    <value>Lokalizacja:</value>
+    <value>Ścieżka:</value>
   </data>
   <data name="lblGradientType.Text" xml:space="preserve">
     <value>Typ gradientu:</value>
@@ -154,7 +154,7 @@
     <value>Kolor</value>
   </data>
   <data name="chLocation.Text" xml:space="preserve">
-    <value>Lokalizacja</value>
+    <value>Ścieżka</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Wybór gradientu</value>

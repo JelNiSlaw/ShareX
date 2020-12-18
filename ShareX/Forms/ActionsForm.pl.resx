@@ -121,7 +121,7 @@
     <value>Nazwa:</value>
   </data>
   <data name="lblPath.Text" xml:space="preserve">
-    <value>Lokalizacja pliku:</value>
+    <value>Ścieżka pliku:</value>
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>OK</value>

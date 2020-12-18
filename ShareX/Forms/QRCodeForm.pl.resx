@@ -124,16 +124,16 @@
     <value>Dekoduj</value>
   </data>
   <data name="tsmiSaveAs.Text" xml:space="preserve">
-    <value>Zapisz jako zdjęcie...</value>
+    <value>Zapisz jako obraz...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Kod QR</value>
   </data>
   <data name="tsmiUpload.Text" xml:space="preserve">
-    <value>Prześlij zdjęcie</value>
+    <value>Prześlij obraz</value>
   </data>
   <data name="tsmiCopy.Text" xml:space="preserve">
-    <value>Kopiuj zdjęcie do schowka</value>
+    <value>Kopiuj obraz do schowka</value>
   </data>
   <data name="btnDecodeFromFile.Text" xml:space="preserve">
     <value>Dekoduj z pliku...</value>

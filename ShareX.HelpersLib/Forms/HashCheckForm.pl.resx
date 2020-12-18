@@ -133,10 +133,10 @@
     <value>Sprawdź</value>
   </data>
   <data name="lblFilePath.Text" xml:space="preserve">
-    <value>Lokalizacja pliku:</value>
+    <value>Ścieżka pliku:</value>
   </data>
   <data name="lblFilePath2.Text" xml:space="preserve">
-    <value>Lokalizacja pliku:</value>
+    <value>Ścieżka pliku:</value>
   </data>
   <data name="btnFilePathBrowse2.Text" xml:space="preserve">
     <value>Przeglądaj...</value>

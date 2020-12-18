@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ActionsCodeMenuEntry_FilePath_File_path" xml:space="preserve">
-    <value>Lokalizacja pliku</value>
+    <value>Ścieżka pliku</value>
   </data>
   <data name="ExportImportControl_tsmiExportClipboard_Click_Settings_copied_to_your_clipboard_" xml:space="preserve">
     <value>Ustawienia skopiowane do schowka.</value>
@@ -344,5 +344,14 @@
   </data>
   <data name="HotkeyType_CustomRegion" xml:space="preserve">
     <value>Przechwyć skonfigurowany obszar</value>
+  </data>
+  <data name="AfterCaptureTasks_UploadImageToHost" xml:space="preserve">
+    <value>Prześlij obraz do hosta</value>
+  </data>
+  <data name="DownloaderForm_DownloaderForm_Waiting_" xml:space="preserve">
+    <value>Oczekiwanie.</value>
+  </data>
+  <data name="HotkeyType_TweetMessage" xml:space="preserve">
+    <value>Tweetuj wiadomość</value>
   </data>
 </root>

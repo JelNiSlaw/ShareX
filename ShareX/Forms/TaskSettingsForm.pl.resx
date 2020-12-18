@@ -208,7 +208,7 @@
     <value>Obraz</value>
   </data>
   <data name="chActionsPath.Text" xml:space="preserve">
-    <value>Lokalizacja</value>
+    <value>Ścieżka</value>
   </data>
   <data name="chActionsExtensions.Text" xml:space="preserve">
     <value>Rozszerzenia</value>
@@ -217,7 +217,7 @@
     <value>Obserwuj foldery i przesyłaj nowe pliki</value>
   </data>
   <data name="chWatchFolderFolderPath.Text" xml:space="preserve">
-    <value>Lokalizacja folderu</value>
+    <value>Ścieżka folderu</value>
   </data>
   <data name="chWatchFolderFilter.Text" xml:space="preserve">
     <value>Filtr</value>

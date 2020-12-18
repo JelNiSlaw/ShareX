@@ -124,7 +124,7 @@
     <value>Twitter</value>
   </data>
   <data name="tsbTwitter.ToolTipText" xml:space="preserve">
-    <value>Śledź nasz profil na Twitterze</value>
+    <value>Obserwuj nasz profil na Twitterze</value>
   </data>
   <data name="tsddbCapture.Text" xml:space="preserve">
     <value>Przechwyć</value>
@@ -292,7 +292,7 @@
     <value>Edytor obrazów...</value>
   </data>
   <data name="tsmiImageEffects.Text" xml:space="preserve">
-    <value>Efekty obrazów...</value>
+    <value>Efekty...</value>
   </data>
   <data name="tsmiHashCheck.Text" xml:space="preserve">
     <value>Sprawdź sumę kontrolną...</value>
@@ -409,7 +409,7 @@
     <value>Obraz na forum (BBCode)</value>
   </data>
   <data name="tsmiCopyForumLinkedImage.Text" xml:space="preserve">
-    <value>Linkowane zdjęcie na forum (BBCode)</value>
+    <value>Linkowany obraz na forum (BBCode)</value>
   </data>
   <data name="tsmiCopyMarkdownLink.Text" xml:space="preserve">
     <value>Link w formacie Markdown</value>
@@ -418,7 +418,7 @@
     <value>Obraz w formacie Markdown</value>
   </data>
   <data name="tsmiCopyMarkdownLinkedImage.Text" xml:space="preserve">
-    <value>Linkowane zdjęcie w formacie Markdown</value>
+    <value>Linkowany obraz w formacie Markdown</value>
   </data>
   <data name="tsmiCopyFilePath.ShortcutKeyDisplayString" xml:space="preserve">
     <value>Ctrl+Shift+C</value>
@@ -502,7 +502,7 @@
     <value>Automatycznie</value>
   </data>
   <data name="tsmiImagePreview.Text" xml:space="preserve">
-    <value>Podgląd zdjęcia</value>
+    <value>Podgląd obrazu</value>
   </data>
   <data name="tsmiThumbnailTitleShow.Text" xml:space="preserve">
     <value>Pokaż</value>
@@ -610,7 +610,7 @@
     <value>Obraz w formacie HTML</value>
   </data>
   <data name="tsmiCopyHTMLLinkedImage.Text" xml:space="preserve">
-    <value>Linkowane zdjęcie w formacie HTML</value>
+    <value>Linkowany obraz w formacie HTML</value>
   </data>
   <data name="tsmiTrayImageCombiner.Text" xml:space="preserve">
     <value>Łączenie obrazów...</value>
@@ -619,7 +619,7 @@
     <value>Edytor obrazów...</value>
   </data>
   <data name="tsmiTrayImageEffects.Text" xml:space="preserve">
-    <value>Efekty obrazów...</value>
+    <value>Efekty...</value>
   </data>
   <data name="tsmiTrayImageHistory.Text" xml:space="preserve">
     <value>Historia obrazów...</value>
@@ -712,10 +712,10 @@
     <value>Konwerter wideo...</value>
   </data>
   <data name="tsmiTweetMessage.Text" xml:space="preserve">
-    <value>Wyślij tweeta...</value>
+    <value>Wyślij Tweeta...</value>
   </data>
   <data name="tsmiTrayTweetMessage.Text" xml:space="preserve">
-    <value>Wyślij tweeta...</value>
+    <value>Wyślij Tweeta...</value>
   </data>
   <data name="tsmiTrayScreenColorPicker.Text" xml:space="preserve">
     <value>Pobierz kolor z ekranu...</value>

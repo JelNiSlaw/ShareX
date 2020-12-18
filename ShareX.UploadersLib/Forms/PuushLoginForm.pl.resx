@@ -126,4 +126,10 @@
   <data name="lblEmail.Text" xml:space="preserve">
     <value>Email:</value>
   </data>
+  <data name="llForgottenPassword.Text" xml:space="preserve">
+    <value>Nie pamiętasz hasła?</value>
+  </data>
+  <data name="lblPassword.Text" xml:space="preserve">
+    <value>Hasło:</value>
+  </data>
 </root>
