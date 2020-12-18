@@ -566,9 +566,6 @@ Apakah anda ingin mengunduhnya?</value>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>Secara otomatis mencoba semua metode sampai berhasil</value>
   </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Otomatis tambahkan dengan dasar {n} menggunakan alfanumerik (1 &lt; n &lt; 63)</value>
-  </data>
   <data name="ImgurThumbnailType_Big_Square" xml:space="preserve">
     <value>Persegi besar</value>
   </data>
@@ -1119,5 +1116,8 @@ Ukuran file: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
     <value>Otomatis tambahkan alfanumerik case-sensitive. Bantalan 0 tersisa menggunakan {n}</value>
+  </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Otomatis tambahkan dengan dasar {n} menggunakan alfanumerik (1 &lt; n &lt; 63)</value>
   </data>
 </root>

@@ -648,6 +648,9 @@ Soll sie heruntergeladen und installiert werden?</value>
   <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
     <value>Automatisch alphanumerisch (Groß-/Kleinschreibung) erhöhen. 0 pad left using {n}</value>
   </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Automatisch nach Basis {n} alphanumerisch (1 &lt; n &lt; 63) erhöhen</value>
+  </data>
   <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
     <value>Zufällige GUID</value>
   </data>
@@ -1095,9 +1098,6 @@ Soll sie heruntergeladen werden?</value>
   </data>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>Automatisch alle Methoden ausprobieren, bis eine funktioniert</value>
-  </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Automatisch nach Basis {n} alphanumerisch (1 &lt; n &lt; 63) erhöhen</value>
   </data>
   <data name="RegionCaptureAction_CaptureActiveMonitor" xml:space="preserve">
     <value>Aktiven Monitor aufnehmen</value>

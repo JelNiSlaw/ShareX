@@ -800,9 +800,6 @@ Would you like to download and install it?</value>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>Automatically try all methods until one works</value>
   </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Auto increment by base {n} using alphanumeric (1 &lt; n &lt; 63)</value>
-  </data>
   <data name="ResponseType_LocationHeader" xml:space="preserve">
     <value>Location header</value>
   </data>
@@ -868,6 +865,9 @@ Would you like to download and install it?</value>
   </data>
   <data name="ResponseType_Headers" xml:space="preserve">
     <value>Response headers</value>
+  </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Auto increment by base {n} using alphanumeric (1 &lt; n &lt; 63)</value>
   </data>
   <data name="HotkeyType_AbortScreenRecording_Category" xml:space="preserve">
     <value>Screen record</value>

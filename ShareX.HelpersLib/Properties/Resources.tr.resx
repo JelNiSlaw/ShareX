@@ -732,6 +732,9 @@ Dosya boyutu: {2:n0} / {3:n0} KB</value>
   <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
     <value>Otomatik artan alfanumerik büyük küçük harfe duyarlı. {n} başa n kadar 0 ekler</value>
   </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Otomatik artan {n} sayı tabanında alfanumerik (1 &lt; n &lt; 63)</value>
+  </data>
   <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
     <value>Rastgele GUID</value>
   </data>
@@ -879,9 +882,6 @@ Dosya boyutu: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>Otomatik olarak bütün yöntemleri dene biri çalışana dek</value>
-  </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Otomatik artan {n} sayı tabanında alfanumerik (1 &lt; n &lt; 63)</value>
   </data>
   <data name="LinearGradientMode_BackwardDiagonal" xml:space="preserve">
     <value>Geriye çapraz</value>

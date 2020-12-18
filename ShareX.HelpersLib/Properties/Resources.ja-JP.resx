@@ -721,9 +721,6 @@
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>どれかが動作するまですべての方法を自動で試みる</value>
   </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>位取り記数法連番 {n}でn進数 (1 &lt; n &lt; 63)</value>
-  </data>
   <data name="ResponseType_LocationHeader" xml:space="preserve">
     <value>Location ヘッダー</value>
   </data>
@@ -786,6 +783,9 @@
   </data>
   <data name="ResponseType_Headers" xml:space="preserve">
     <value>応答ヘッダー</value>
+  </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>位取り記数法連番 {n}でn進数 (1 &lt; n &lt; 63)</value>
   </data>
   <data name="HotkeyType_AbortScreenRecording_Category" xml:space="preserve">
     <value>動画キャプチャー</value>

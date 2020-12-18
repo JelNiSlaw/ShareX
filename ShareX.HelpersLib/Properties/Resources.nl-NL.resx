@@ -645,6 +645,9 @@ Wil je deze downloaden en installeren?</value>
   <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
     <value>Zelf ophogende alfa-numerieke sequentie, hoofdlettergevoelig. Voorloopnullen links met {n}</value>
   </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Zelf ophogende sequentie met base {n} (waar n 1 &lt; n &lt; 63)</value>
+  </data>
   <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
     <value>Willekeurige GUID</value>
   </data>
@@ -813,9 +816,6 @@ Wil je deze downloaden?</value>
   </data>
   <data name="HotkeyType_OpenMainWindow_Category" xml:space="preserve">
     <value>Anders</value>
-  </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Zelf ophogende sequentie met base {n} (waar n 1 &lt; n &lt; 63)</value>
   </data>
   <data name="Helpers_BrowseFile_Choose_file" xml:space="preserve">
     <value>Kies bestand</value>

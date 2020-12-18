@@ -648,6 +648,9 @@ Voulez-vous la télécharger et l'installer ?</value>
   <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
     <value>Incrémentation alphanumérique automatique sensible à la casse. Ajoutez un 0 au début avec {n}</value>
   </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Incrémentation automatique en base {n} (1 &lt; n &lt; 63)</value>
+  </data>
   <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
     <value>GUID aléatoire</value>
   </data>
@@ -915,9 +918,6 @@ Voulez-vous la télécharger ?</value>
   </data>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>Automatiquement essayer toutes les méthodes jusqu'à ce qu'une fonctionne</value>
-  </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Incrémentation automatique en base {n} (1 &lt; n &lt; 63)</value>
   </data>
   <data name="HotkeyType_ExitShareX" xml:space="preserve">
     <value>Quitter ShareX</value>

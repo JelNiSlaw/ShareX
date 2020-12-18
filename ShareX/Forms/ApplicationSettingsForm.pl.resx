@@ -121,7 +121,7 @@
     <value>Zainstaluj kompilację deweloperską...</value>
   </data>
   <data name="cbCheckPreReleaseUpdates.Text" xml:space="preserve">
-    <value>Sprawdź aktualizacje (poglądowe)</value>
+    <value>Sprawdź aktualizacje (wersje wstępne)</value>
   </data>
   <data name="lblTrayMiddleClickAction.Text" xml:space="preserve">
     <value>Kliknięcie środkowym przyciskiem myszy:</value>

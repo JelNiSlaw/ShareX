@@ -651,6 +651,9 @@ Bạn có muốn tải về và cài đặt không?</value>
   <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
     <value>Tự tăng theo chữ và số có phân biệt chữ viết hoa/thường. Chèn 0 bên trái sử dụng {n}</value>
   </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Tự tăng theo hệ cơ số {n} sử dụng chữ và số (1 &lt; n &lt; 63)</value>
+  </data>
   <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
     <value>GUID ngẫu nhiên</value>
   </data>
@@ -807,9 +810,6 @@ Bạn có muốn tải về không?</value>
   </data>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>Tự động thử tất cả các phương thức tới khi một cái làm được</value>
-  </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Tự tăng theo hệ cơ số {n} sử dụng chữ và số (1 &lt; n &lt; 63)</value>
   </data>
   <data name="LinearGradientMode_BackwardDiagonal" xml:space="preserve">
     <value>Kẻ chéo về phía sau</value>

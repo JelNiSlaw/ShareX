@@ -675,6 +675,9 @@ Você gostaria de baixar e instalar?</value>
   <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
     <value>Auto incrementar caracteres alfanuméricos maiúsculos e minúsculos. Acrescentar 0 à esquerda usando {n}</value>
   </data>
+  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
+    <value>Auto incrementar por base {n} usando caracteres alfanuméricos (1 &lt; n &lt; 63)</value>
+  </data>
   <data name="ReplCodeMenuEntry_guid_Random_guid" xml:space="preserve">
     <value>GUID Aleatório</value>
   </data>
@@ -915,9 +918,6 @@ Gostaria de baixá-la?</value>
   </data>
   <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
     <value>Tentar todos os métodos até que um funcione</value>
-  </data>
-  <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
-    <value>Auto incrementar por base {n} usando caracteres alfanuméricos (1 &lt; n &lt; 63)</value>
   </data>
   <data name="ScrollingCaptureScrollMethod_KeyPressPageDown" xml:space="preserve">
     <value>Simular pressionando "Page Down"</value>

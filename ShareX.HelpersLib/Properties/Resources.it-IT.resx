@@ -841,11 +841,11 @@ Vuoi scaricarla ora?</value>
   <data name="ReplCodeMenuEntry_iAa_Auto_increment_alphanumeric_all" xml:space="preserve">
     <value>Auto Incremento Alfanumerico (Case-Sensitive). Sarà aggiunto uno 0 davanti usando {n}</value>
   </data>
-  <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
-    <value>Prova automaticamento tutti i metodi finché uno non funziona</value>
-  </data>
   <data name="ReplCodeMenuEntry_ib_Auto_increment_base_alphanumeric" xml:space="preserve">
     <value>Auto Incremento Alfanumerico in Base {n} (1 &lt; n &lt; 63)</value>
+  </data>
+  <data name="ScrollingCaptureScrollMethod_Automatic" xml:space="preserve">
+    <value>Prova automaticamento tutti i metodi finché uno non funziona</value>
   </data>
   <data name="ScrollingCaptureScrollTopMethod_None" xml:space="preserve">
     <value>Disattiva lo Scorrimento in Cima</value>
