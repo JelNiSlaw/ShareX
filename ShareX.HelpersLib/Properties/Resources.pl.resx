@@ -354,20 +354,4 @@
   <data name="HotkeyType_TweetMessage" xml:space="preserve">
     <value>Tweetuj wiadomość</value>
   </data>
-  <data name="UpdateCheckerLabel_UpdateControls_Update_check_failed" xml:space="preserve">
-    <value>Sprawdzanie aktualizacji nie powiodło się</value>
-  </data>
-  <data name="UpdateMessageBox_UpdateMessageBox_update_is_available" xml:space="preserve">
-    <value>Dostępna jest aktualizacja</value>
-  </data>
-  <data name="UpdateMessageBox_UpdateMessageBox_CurrentVersion" xml:space="preserve">
-    <value>Obecna wersja</value>
-  </data>
-  <data name="UpdateMessageBox_UpdateMessageBox_LatestVersion" xml:space="preserve">
-    <value>Najnowsza wersja</value>
-  </data>
-  <data name="UpdateMessageBox_UpdateMessageBox_Portable" xml:space="preserve">
-    <value>Dostępna jest nowsza wersja {0}.
-Czy chcesz ją pobrać?</value>
-  </data>
 </root>

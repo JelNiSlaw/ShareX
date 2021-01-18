@@ -250,7 +250,7 @@
     <value>Usuń</value>
   </data>
   <data name="btnUploaderFiltersUpdate.Text" xml:space="preserve">
-    <value>Aktualizuj</value>
+    <value>Zaktualizuj</value>
   </data>
   <data name="btnDestinations.Text" xml:space="preserve">
     <value>Miejsca docelowe...</value>
