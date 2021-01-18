@@ -214,7 +214,7 @@
   <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
     <value>第一次上传警告</value>
   </data>
-  <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
+  <data name=" " xml:space="preserve">
     <value>Chrome 浏览器扩展支持已启用。</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">

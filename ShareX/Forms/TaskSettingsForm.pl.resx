@@ -438,4 +438,16 @@
   <data name="cbRegionCaptureDetectControls.Text" xml:space="preserve">
     <value>Wykryj także obszary wewnątrz okien</value>
   </data>
+  <data name="cbCaptureClientArea.Text" xml:space="preserve">
+    <value>Przechwytuj obszar klienta podczas przechwytywania okna lub aktywnego okna</value>
+  </data>
+  <data name="cbThumbnailIfSmaller.Text" xml:space="preserve">
+    <value>Utwórz miniaturę tylko gdy rozmiar obrazu jest większy niż rozmiar miniatury</value>
+  </data>
+  <data name="cbRegionCaptureDetectWindows.Text" xml:space="preserve">
+    <value>Wykryj obszary okien i pozwól przechwytywać po najechaniu kursorem</value>
+  </data>
+  <data name="cbRegionCaptureUseDimming.Text" xml:space="preserve">
+    <value>Przyciemnij tło, aby łatwo było rozróżnić wybór (wpływa na szybkość uruchamiania)</value>
+  </data>
 </root>

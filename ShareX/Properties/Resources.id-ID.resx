@@ -459,7 +459,7 @@ Tekan 'Tidak' untuk membatalkan unggahan saat ini dan nonaktifkan otomatis mengu
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Dukungan Chrome dinonaktifkan.</value>
   </data>
-  <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
+  <data name=" " xml:space="preserve">
     <value>Dukungan Chrome diaktifkan.</value>
   </data>
   <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">

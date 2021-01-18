@@ -331,7 +331,7 @@ ShareX'i yeniden başlatmak ister misiniz?</value>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
     <value>İlk sefer yükleme uyarısı</value>
   </data>
-  <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
+  <data name=" " xml:space="preserve">
     <value>Chrome desteği aktif edildi.</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">

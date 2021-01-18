@@ -506,4 +506,61 @@ Czy chcesz automatycznie go pobrać?</value>
   <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
     <value>Używaj nowej nazwy: </value>
   </data>
+  <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">
+    <value>Konfiguracja {0} jest niepoprawna lub nie istnieje. Sprawdź "Ustawienia miejsca docelowego" aby skonfigurować.</value>
+  </data>
+  <data name="BeforeUploadForm_BeforeUploadForm__0__is_about_to_be_uploaded_to__1___You_may_choose_a_different_destination_" xml:space="preserve">
+    <value>{0} zostanie wysłane do {1}. Możesz wybrać inne miejsce docelowe.</value>
+  </data>
+  <data name="UploadManager_IsUploadConfirmed_Are_you_sure_you_want_to_upload__0__files_" xml:space="preserve">
+    <value>Czy chcesz wysłać {0} plików?</value>
+  </data>
+  <data name="UploadTask_DoUploadJob_First_time_upload_warning_text" xml:space="preserve">
+    <value>Czy wysłać ten zrzut ekranu?
+Naciśnij "Nie" aby anulować wysyłanie i wyłączyć auto-wysyłanie zrzutów ekranu.</value>
+  </data>
+  <data name="Program_WritePersonalPathConfig_Cant_access_to_file" xml:space="preserve">
+    <value>Nie można uzyskać dostępu do {0}.
+Uruchom ShareX jako administrator aby zmienić ścieżkę folderu osobistego.</value>
+  </data>
+  <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
+    <value>Obsługa Chrome wyłączona.</value>
+  </data>
+  <data name=" " xml:space="preserve">
+    <value>Obsługa Chrome włączona.</value>
+  </data>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
+    <value>Zawartość schowka: Plik (Ilość: {0})</value>
+  </data>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Image__Size___0_x_1__" xml:space="preserve">
+    <value>Zawartość schowka: Obraz (Wielkość: {0}x{1})</value>
+  </data>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
+    <value>Zawartość schowka: Tekst (Długość: {0})</value>
+  </data>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_is_empty_or_contains_unknown_data_" xml:space="preserve">
+    <value>Schowek pusty lub zawiera nieznane dane.</value>
+  </data>
+  <data name="Confirmation" xml:space="preserve">
+    <value>Potwierdzenie</value>
+  </data>
+  <data name="ImageData_Write_Error" xml:space="preserve">
+    <value>Nie można zapisać obrazu do ścieżki {0}.</value>
+  </data>
+  <data name="ApplicationSettingsForm_btnCheckDevBuild_Click_DevBuilds_Warning" xml:space="preserve">
+    <value>Kompilacje deweloperskie mogą być niestabilne i muszą być używane tylko do celów testowych. Chcesz ją zainstalować?</value>
+  </data>
+  <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
+    <value>Upuść
+tutaj</value>
+  </data>
+  <data name="IntegrationHelpers_EditWithShareX" xml:space="preserve">
+    <value>Edytuj w ShareX</value>
+  </data>
+  <data name="OCRForm_AutoCompleteFail" xml:space="preserve">
+    <value>Błąd podczas skanowania OCR lub tekst nie został zwrócony.</value>
+  </data>
+  <data name="ScreenRecordForm_StartRecording_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
+    <value>Audio i wideo FFmpeg nie mogą być ustawione razem na "Nie".</value>
+  </data>
 </root>

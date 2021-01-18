@@ -335,7 +335,7 @@ Riavviare ShareX?</value>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
     <value>Avvertimento per il Primo Caricamento</value>
   </data>
-  <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
+  <data name=" " xml:space="preserve">
     <value>Supporto Chrome abilitato.</value>
   </data>
   <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">

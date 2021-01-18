@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -214,7 +214,7 @@
   <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
     <value>首次上傳警告</value>
   </data>
-  <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
+  <data name=" " xml:space="preserve">
     <value>Chrome 支援已啟用。</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
