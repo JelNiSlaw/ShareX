@@ -343,7 +343,7 @@ Press 'No' to cancel the current upload and disable screenshot auto uploading.</
   <data name="UploadTask_DoUploadJob_Uploading" xml:space="preserve">
     <value>Uploading</value>
   </data>
-  <data name=" " xml:space="preserve">
+  <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
     <value>Chrome support enabled.</value>
   </data>
   <data name="ui_toolbar__arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">

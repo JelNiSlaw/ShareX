@@ -217,7 +217,7 @@ Deseja reiniciar agora?</value>
   <data name="BeforeUploadForm_BeforeUploadForm_Please_choose_a_destination_" xml:space="preserve">
     <value>Por favor escolha um destino.</value>
   </data>
-  <data name=" " xml:space="preserve">
+  <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
     <value>Suporte ao Chrome activado.</value>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">

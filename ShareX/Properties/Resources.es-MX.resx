@@ -460,7 +460,7 @@ Elija "No" para cancelar y deshabilitar la subida automática.</value>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Soporte para Chrome deshabilitado.</value>
   </data>
-  <data name=" " xml:space="preserve">
+  <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
     <value>Soporte para Chrome habilitado.</value>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">

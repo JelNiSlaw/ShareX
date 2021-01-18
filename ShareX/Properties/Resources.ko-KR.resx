@@ -469,7 +469,7 @@ ShareX를 재시작할까요?</value>
   <data name="AboutForm_AboutForm_Language_pt_BR" xml:space="preserve">
     <value>포르투갈어 (브라질)</value>
   </data>
-  <data name=" " xml:space="preserve">
+  <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
     <value>크롬 지원이 활성화되어 있습니다.</value>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
